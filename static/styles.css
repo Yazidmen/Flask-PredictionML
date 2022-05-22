@@ -1,0 +1,7 @@
+.bg{
+    background-image: url('image/ucl.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 445px;
+    background-size: cover;
+}
